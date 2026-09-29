@@ -2,7 +2,7 @@
 using System;
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-Console.Write("Enter Count of Element");
+Console.Write("Enter Count of Element: ");
 var arraylength = int.Parse(Console.ReadLine());
 int[] array = new int[arraylength];
 for (int i = 0; i < arraylength; i++)
