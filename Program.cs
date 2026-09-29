@@ -21,7 +21,7 @@ namespace MathLesson
             var result = numbers[0];
             foreach (var number in numbers)
             {
-                if (number < result)
+                if (number > result)
                 {
                     result = number;
                 }
@@ -33,7 +33,7 @@ namespace MathLesson
             var result = numbers[0];
             foreach (var number in numbers)
             {
-                if (number > result)
+                if (number < result)
                 {
                     result = number;
                 }
