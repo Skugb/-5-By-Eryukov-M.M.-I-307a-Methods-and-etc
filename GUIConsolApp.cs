@@ -1,3 +1,4 @@
+/*using MathLesson;
 using System;
 namespace TestConsole
 {
@@ -16,3 +17,4 @@ namespace TestConsole
         }
     }
 }
+*/
